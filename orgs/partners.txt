@@ -1,7 +1,6 @@
 partner list
-<<<<<<< HEAD
-SalesInc
-=======
 
->>>>>>> delete_records
-TheStartup
+SalesInc
+
+
+
